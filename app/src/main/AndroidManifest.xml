@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PamanaRecipeApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".aboutapp"
+            android:exported="false" />
+        <activity
+            android:name=".dessert2"
+            android:exported="false" />
+        <activity
+            android:name=".dessert1"
+            android:exported="false" />
+        <activity
+            android:name=".dessertMenu"
+            android:exported="false" />
+        <activity
+            android:name=".beef3"
+            android:exported="false" />
+        <activity
+            android:name=".beef2"
+            android:exported="false" />
+        <activity
+            android:name=".beef1"
+            android:exported="false" />
+        <activity
+            android:name=".beefMenu"
+            android:exported="false" />
+        <activity
+            android:name=".pork3"
+            android:exported="false" />
+        <activity
+            android:name=".pork2"
+            android:exported="false" />
+        <activity
+            android:name=".pork1"
+            android:exported="false" />
+        <activity
+            android:name=".porkMenu"
+            android:exported="false" />
+        <activity
+            android:name=".chickenMenu"
+            android:exported="false" />
+        <activity
+            android:name=".chicken3"
+            android:exported="false" />
+        <activity
+            android:name=".chicken2"
+            android:exported="false" />
+        <activity
+            android:name=".chicken1"
+            android:exported="false" />
+        <activity
+            android:name=".MainMenu"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

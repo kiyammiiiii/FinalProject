@@ -1,0 +1,312 @@
+<resources>
+
+    <string name="app_name">FinalProject</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Log In</string>
+    <string name="forgot_text">Forgot Password?</string>
+    <string name="title_text"> Pamana</string>
+    <string name="chicken_text">Chicken Recipes</string>
+    <string name="Pork_text">Pork Recipes</string>
+    <string name="Beef_text">Beef Recipes</string>
+    <string name="Dessert_text">Dessert Recipes</string>
+    <string name="chicken_1">Chicken Adobo</string>
+    <string name="chicken_2">Chicken Pastel</string>
+    <string name="chicken_3">Chicken Afritada</string>
+    <string name="pork_1">Pork Sinigang</string>
+    <string name="pork_2">Pork Sisig</string>
+    <string name="pork_3">Pork Menudo</string>
+    <string name="beef_1">Beef Bulalo</string>
+    <string name="beef_2">Beef Tapa</string>
+    <string name="beef_3">Beef Caldereta</string>
+    <string name="dessert_1">Halo-Halo</string>
+    <string name="dessert_2">Maja Blanca</string>
+    <string name="tagline">Food is Heritage</string>
+    <string name="about_title">About App </string>
+    <string name="author">The Author</string>
+
+    <string name="chicken_1_recipe">Ingredients
+\n▢1 ½ lb. pork belly cube
+\n▢1 ½ teaspoons whole peppercorn pamintang buo
+\n▢5 to 6 pieces dried bay leaves dahon ng laurel
+\n▢6 to 8 cloves garlic crushed
+\n▢5 tablespoons soy sauce
+\n▢3 tablespoons coconut vinegar
+\n▢1 ½ cup water or beef broth
+\n▢3 tablespoons cooking oil
+\n▢Salt to taste optional
+\n
+\nInstructions
+\nHeat the oil in a cooking pot.
+\nAdd the garlic. Cook until it starts to turn light brown.
+\nAdd the peppercorns and bay leaves. Continue to cook for 20 seconds so that its flavors get infused in the oil.
+\nPut the pork belly in the cooking pot. Stir and cook until it turns light brown. Note: check the garlic and make sure that it does not get burnt. Adjust heat if necessary.
+\nPour the soy sauce and beef broth (or water). Let boil. Cover and cook in low heat for 40 minutes or until the pork gets tender. Add more beef broth or water if the liquid starts to dry quickly.
+\nPour-in the vinegar. Let the liquid re-boil. Stir and cook for 8 minutes.
+\nTaste your pork adobo and decide to add salt if needed.
+\nTransfer to a serving plate. Serve.
+\nShare and enjoy!</string>
+
+    <string name="chicken_2_recipe">Ingredients
+\n▢2 lbs chicken breast cut into cubes
+\n▢1 piece Knorr Chicken Cube
+\n▢1 piece Chorizo de Bilbao sliced
+\n▢4 pieces hotdogs sliced
+\n▢1 piece potato cubed
+\n▢1 piece carrot sliced
+\n▢1 piece red bell pepper sliced
+\n▢1 piece green bell pepper sliced
+\n▢3/4 cup button mushroom sliced
+\n▢15 ounces all-purpose cream
+\n▢1/4 cup soy sauce
+\n▢1 piece lime
+\n▢1 piece onion chopped
+\n▢4 cloves garlic minced
+\n▢3/4 cup water
+\n▢Salt and ground black pepper to taste
+\n
+\nInstructions
+\nCombine chicken, soy sauce, and lime in a large bowl. Mix well. Marinate chicken for at least 30 minutes.
+\nHeat oil in a cooking pot. Saute onion and garlic.
+\nOnce the onion softens, add the chorizo. Saute for 1 minute.
+\nPut chicken into the pot. Saute until the color turns light brown.
+\nAdd water. Let boil.
+\nAdd Knorr Chicken Cube. Stir. Cover and continue to cook for 20 minutes.
+\nPut the sliced hotdogs into the pot. Cook in medium heat until the liquid reduces to half.
+\nAdd potato and carrot. Pour-in all-purpose cream. Cover and cook for 8 minutes.
+\nStir-in the mushroom and bell peppers. Stir. Cook for 3 minutes.
+\nSeason with ground black pepper and salt.
+\nTransfer to a serving plate. Serve with warm rice. Share and enjoy!</string>
+
+    <string name="chicken_3_recipe">Ingredients
+\n▢1 ½ lbs. Chicken cut into serving pieces
+\n▢2 piece potato cubed
+\n▢1 piece carrot sliced
+\n▢8 oz. tomato sauce
+\n▢3 pieces hotdog sliced
+\n▢½ cup green peas
+\n▢3 pieces bay leaves
+\n▢1 piece red onion chopped
+\n▢2 teaspoons garlic minced
+\n▢3 cups chicken broth
+\n▢½ teaspoon sugar
+\n▢3 tablespoons cooking oil
+\n▢Salt and ground black pepper to taste
+\n
+\nInstructions
+\nHeat the oil in a cooking pot. Saute onion and garlic until the onion softens.
+\nAdd chicken. Cook for 30 seconds. Turn it over and cook the other side for another 30 seconds.
+\nPour tomato sauce and chicken broth. Cover. Let boil.
+\nAdd dried bay leaves. Cover the cooking pot. Continue to cook in medium heat for 30 minutes.
+\nAdd hotdogs and carrot. Cook for 3 minutes.
+\nAdd potato. Cover the pot and cook for 8 minutes.
+\nAdd green peas. Cook for 2 minutes.
+\nSeason with salt and ground black pepper
+\nServe!</string>
+
+    <string name="pork_1_recipe">Ingredients
+\n▢2 lbs pork belly or buto-buto
+\n▢1 bunch spinach or kang-kong
+\n▢3 tablespoons fish sauce
+\n▢12 pieces string beans sitaw, cut in 2 inch length
+\n▢2 pieces tomato quartered
+\n▢3 pieces chili or banana pepper
+\n▢1 tablespoons cooking oil
+\n▢2 quarts water
+\n▢1 piece onion sliced
+\n▢2 pieces taro gabi, quartered
+\n▢1 pack sinigang mix good for 2 liters water
+\n
+\nInstructions
+\nHeat the pot and put-in the cooking oil
+\nSauté the onion until its layers separate from each other
+\nAdd the pork belly and cook until outer part turns light brown
+\nPut-in the fish sauce and mix with the ingredients
+\nPour the water and bring to a boil
+\nAdd the taro and tomatoes then simmer for 40 minutes or until pork is tender
+\nPut-in the sinigang mix and chili
+\nAdd the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes
+\nPut-in the spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.
+\nServe hot. Share and enjoy!
+</string>
+
+    <string name="pork_2_recipe">Ingredients
+    \n▢1 lb. pig ears
+    \nn▢1 1/2 lb pork belly
+    \n▢1 piece onion minced
+    \n▢3 tablespoons soy sauce
+    \n▢1/4 teaspoon ground black pepper
+    \n▢1 knob ginger minced (optional)
+    \n▢3 tablespoons chili flakes
+    \n▢1/2 teaspoon garlic powder
+    \n▢1 piece lemon or 3 to 5 pieces calamansi
+    \n▢½ cup butter or margarine
+    \n▢¼ lb chicken liver
+    \n▢6 cups water
+    \n▢3 tablespoons mayonnaise
+    \n▢1/2 teaspoon salt
+    \n▢1 piece egg (optional)
+\n
+    \nInstructions
+    \nPour the water in a pan and bring to a boil Add salt and pepper.
+    \nPut-in the pig’s ears and pork belly then simmer for 40 minutes to 1 hour (or until tender).
+    \nRemove the boiled ingredients from the pot then drain excess water
+    \nGrill the boiled pig ears and pork belly until done
+    \nChop the pig ears and pork belly into fine pieces
+    \nIn a wide pan, melt the butter or margarine. Add the onions. Cook until onions are soft.
+    \nPut-in the ginger and cook for 2 minutes
+    \nAdd the chicken liver. Crush the chicken liver while cooking it in the pan.
+    \nAdd the chopped pig ears and pork belly. Cook for 10 to 12 minutes
+    \nPut-in the soy sauce, garlic powder, and chili. Mix well
+    \nAdd salt and pepper to taste
+    \nPut-in the mayonnaise and mix with the other ingredients
+    \nTransfer to a serving plate. Top with chopped green onions and raw egg.
+    \nServe hot. Share and Enjoy (add the lemon or calamansi before eating)
+    </string>
+
+    <string name="pork_3_recipe">Ingredients
+    \n▢2 lbs. pork
+    \n▢1/4 lb. pig liver
+    \n▢1 cup potatoes diced
+    \n▢1 piece carrot cubed
+    \n▢1/2 cup soy sauce
+    \n▢1/2 piece lemon
+    \n▢1 piece onion chopped
+    \n▢3 cloves garlic minced
+    \n▢1 teaspoon sugar
+    \n▢3/4 cup tomato sauce
+    \n▢1 cup water
+    \n▢4 pieces hotdogs sliced diagonally
+    \n▢2 tablespoons cooking oil
+    \n▢2 to 3 pieces dried bay leaves
+    \n▢Salt and pepper to taste
+\n
+    \nInstructions
+    \nCombine pork, soysauce, and lemon in a bowl. Marinate for at least 1 hour.
+    \nHeat oil in a pan
+    \nSaute garlic and onion.
+    \nAdd the marinated pork. Cook for 5 to 7 minutes.
+    \nPour in tomato sauce and water and then add the bay leaves.Let boil and simmer for 30 minutes to an hour depending on the toughness of the pork. Note: Add water as necessary.
+    \nAdd-in the liver and hot dogs.Cook for 5 minutes.
+    \nPut-in potatoes, carrots, sugar,salt, and pepper. Stir and cook for 8 to 12 minutes.
+        \nServe. Share and enjoy!</string>
+
+    <string name="beef_1_recipe">Ingredients
+    \n▢2 ½ lbs. beef shank bulalo
+    \n▢1 Knorr beef cube
+    \n▢6 to 8 leaves Napa cabbage
+    \n▢1 sweet corn cut into 5 small pieces
+    \n▢15 to 18 pieces green beans
+    \n▢1 medium yellow onion wedged
+    \n▢1 tablespoon whole peppercorn
+    \n▢3 tablespoons fish sauce patis
+    \n▢8 cups water
+
+    Instructions
+    \nBoil water in a pressure cooker.
+    \nAdd onions and whole peppercorn. Cook for 3 minutes.
+    \nAdd beef shank. Let boil.
+    \nAdd Knorr pork cube. Stir. Cover the pressure cooker. Pressure cook for 40 to 45 minutes.
+    \nRemove the cover once pressure is out. Add corn. Cook for 15 minutes.
+    \nPut the green beans into the cooker and pour fish sauce. Stir. Continue to cook for 5 minutes.
+    \nArrange fresh Napa cabbage (pechay baguio) in a serving bowl. Transfer the contents of the pressure cooker in the same bowl. Serve hot with patis, calamansi, and siling labuyo.
+        \nShare and enjoy!</string>
+
+    <string name="beef_2_recipe">Ingredients
+    \n▢1 1/2 lb beef sirloin thinly sliced
+    \n▢5 tablespoons soy sauce
+    \n▢3 tbsp minced garlic or 1 tablespoon garlic powder
+    \n▢2 tbsp sugar
+    \n▢1/4 teaspoon salt
+    \n▢1/4 teaspoon ground black pepper
+\n
+    \nInstructions
+    \nIn a container, combine soy sauce, garlic, salt, pepper, and sugar and mix well. Set aside
+    \nPlace the beef in the clear plastic bag
+    \nPour-in the the mixed seasonings in the clear plastic bag with meat and mix well
+    \nPlace inside the refrigerator and marinate for a minimum of 12 hours
+    \nIn a pan, place 1 cup water and bring to a boil
+    \nAdd 3 tbsp of cooking oil
+        \nPut-in the marinated beef tapa and cook until the water evaporates.</string>
+
+    <string name="beef_3_recipe">Ingredients
+    \n▢2 lbs beef cubed
+    \n▢3 pieces garlic cloves crushed and chopped
+    \n▢1 piece onion finely chopped
+    \n▢2 cups beef broth
+    \n▢1 piece red bell pepper sliced
+    \n▢1 piece green bell pepper sliced
+    \n▢1 cup tomato sauce
+    \n▢½ cup liver spread processed using blender
+    \n▢1 teaspoon chili flakes
+    \n▢3 pieces dried bay leaves
+    \n▢2 cups potatoes sliced
+    \n▢2 cups carrots sliced
+    \n▢1/4 cup cooking oil
+    \n▢⅔ cup green olives
+    \n▢salt and pepper to taste
+\n
+    \nInstructions
+    \nHeat the cooking oil in the cooking pot or pressure cooker.
+    \nSauté the onion and garlic.
+    \nAdd the beef. Cook for 5 minutes or until the color turns light brown.
+    \nAdd the dried bay leaves and crushed pepper. Stir.
+    \nAdd the liver spread. Stir.
+    \nPour-in the tomato sauce and beef broth.
+    \nCook the beef until it becomes tender (about 30 mins if using a pressure cooker, or 1 to 2 hours if using an ordinary pot).
+    \nAdd potato and carrots. Cook for 8 to 10 minutes.
+    \nPut the green olives and bell peppers in the cooking pot. Stir and continue to cook for 5 minutes more.
+    \nAdd salt and pepper to taste
+        Serve Hot. Enjoy!</string>
+
+
+    <string name="dessert_1_recipe">1 ripe large banana
+    \n▢2 ripe mangoes
+    \n▢1 cup firm gelatin set into gel and cut into 1/2-inch cubes
+    \n▢1 cup ripe jackfruit
+    \n▢1/2 cup sweet corn or chick peas (garbanzos)
+    \n▢1 cup young shredded coconut, fresh or canned
+    \n▢1 cup cooked sweet yams or (ube halaya)
+    \n▢2 cup shaved ice
+    \n▢2 cup milk
+    \n▢4 scoops of favorite ice cream
+    \n▢1/2 cup rice pop
+\n
+    \nInstructions:
+    \nPeel mangoes and slice the meat into 1/2-inch cubes.
+    \nPrepare 4 tall glasses. Divide each ingredient into 4 equal parts.
+    \nIn each glass place 1/4 of each ingredient, adding layer by layer.
+    \nTop with 1/2 cup shaved ice.
+       \n Pour 1/4 cup milk over shaved ice and top with a scoop of ice cream. Sprinkle nuts or rice krispies over it</string>
+
+    <string name="dessert_2_recipe">Ingredients\n
+    \n▢4 cups coconut milk\n
+    \n▢3/4 cup cornstarch
+    \n▢14 ounces condensed milk
+    \n▢3/4 cup fresh milk
+    \n▢3/4 cup granulated sugar
+    \n▢15 ounces whole sweet kernel corn
+    \n▢5 tbsp toasted grated coconut
+\n
+    \nInstructions
+    \nPour the coconut milk in a cooking pot and bring to a boil.
+    \nAdd the sugar, condensed milk, and whole sweet kernel corn then stir until all the ingredients are evenly distributed.
+    \nSimmer for 8 minutes
+    \nCombine the milk and cornstarch then whisk until the cornstarch is diluted
+    \nPour the fresh milk and cornstarch mixture in the cooking pot and stir thoroughly.
+    \nAllow to cook while stirring until the mixture reaches your desired thickness
+    \nPour the mixture in a serving tray then arrange and flatten the top using a flat tool such as a wooden spatula
+    \nAllow to cool down then refrigerate for at least 1 hour
+    \nGarnish with toasted grated coconut (or latik if available)
+        \nServe cold. Share and enjoy!</string>
+
+    <string name="about_app">Pamana Filipino Food Recipe App is a mobile application dedicated to showcasing the rich and diverse flavors of traditional Filipino cuisine. With a vast collection of authentic recipes, users can explore a wide range of appetizers, main courses, desserts, and more. Each recipe comes with detailed instructions, ingredient lists, and helpful cooking tips, making it easy for users to recreate these delicious dishes in their own kitchens.
+        \nThe app aims to preserve the culinary heritage of the Philippines and offers features like bookmarking favorite recipes and sharing them with others, providing an immersive and interactive experience for food enthusiasts and those looking to delve into the world of Filipino cooking.
+    </string>
+
+    <string name="name_author">Khimmy Claizy F. Gonzales</string>
+
+    <string name="about_author">The author was a proud Filipino born and raised in the Philippines. She always found the kitchen as a comfort zone so she decided to develop an app that will save all her favorite Filipino dishes. </string>
+
+
+</resources>
